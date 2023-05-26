@@ -16,4 +16,4 @@ jobs:
         python-version: '3.10'
 
     - name: Run tests
-      run: python prost.py
+      run: python test1.py
