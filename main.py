@@ -1,2 +1,2 @@
-def pechat():
-     print("это моя лаба")
+def pechat(a,b):
+    return a - b
